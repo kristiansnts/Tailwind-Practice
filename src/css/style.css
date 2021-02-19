@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+	.input-group {
+		@apply w-full text-primary p-2 border-b-4 transition-all duration-500 placeholder-primary placeholder-opacity-60 capitalize;
+	}
+	
+	.input-group:focus {
+		@apply outline-none border-primary;
+	}
+
+	.button {
+		@apply py-2 px-24 rounded-lg bg-primary font-bold text-white;
+	}
+}
