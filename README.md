@@ -1,7 +1,6 @@
 # Login Form 1
 
-Live Demo with firebase hosting:
-https://login-form-kristiansnts.web.app/
+Project can be seen at branch.
 
-Assets can be downloaded at: 
-https://undraw.co/search
+This is just practice project but not just clone project.
+Every code in these project i code by myself.
